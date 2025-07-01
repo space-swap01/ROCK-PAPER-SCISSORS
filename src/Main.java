@@ -43,10 +43,7 @@ public class Main {
             else if(user.equals(computer)) {
                 System.out.println("Its a Tie!❌");
             }
-//            else if(  user!=("ROCK") || user!="PAPER" || user!="SCISSORS"){
-//
-//                System.out.println("INVALID CHOICE TRY AGAIN!");
-//            }
+
 
             else if(  !user.equals("ROCK") && !user.equals("PAPER") && !user.equals("SCISSORS")){
 
